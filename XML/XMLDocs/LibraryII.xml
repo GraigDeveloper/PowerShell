@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Studio 2018 (https://www.liquid-technologies.com) -->
+<MessageHeader>
+  <Library>
+    <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+    <LibraryReferenceNumber>12ab34de</LibraryReferenceNumber>
+    <LibraryLocation>Croydon</LibraryLocation>
+    <LibraryOpened>1980-01-01</LibraryOpened>
+    <LibraryClosed>
+    </LibraryClosed>
+    <LibraryDetails>
+      <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+      <LibraryDetailsID>44f14ad1-1ff6-46d8-bb7b-4ee78c0b1cf5</LibraryDetailsID>
+      <libraryDetailsNumber>1</libraryDetailsNumber>
+      <LibraryDetailsDate>1980-01-01</LibraryDetailsDate>
+      <LibraryDetailsNumberOfBooks>2</LibraryDetailsNumberOfBooks>
+      <BookDetails>
+        <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+        <LibraryDetailsID>44f14ad1-1ff6-46d8-bb7b-4ee78c0b1cf5</LibraryDetailsID>
+        <BookDetailsID>0142fea8-2244-465a-894b-6288e4afa7cd</BookDetailsID>
+        <BookName>To Hell And Back</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+        <LibraryDetailsID>44f14ad1-1ff6-46d8-bb7b-4ee78c0b1cf5</LibraryDetailsID>
+        <BookDetailsID>dd3e814e-26ef-4068-bddd-9afaf3d713d7</BookDetailsID>
+        <BookName>The Roller Coaster Week</BookName>
+      </BookDetails>
+    </LibraryDetails>
+    <LibraryDetails>
+      <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+      <LibraryDetailsID>64f1f92e-3ebe-4544-a85e-7a1ad47ab856</LibraryDetailsID>
+      <libraryDetailsNumber>2</libraryDetailsNumber>
+      <LibraryDetailsDate>1980-02-01</LibraryDetailsDate>
+      <LibraryDetailsNumberOfBooks>3</LibraryDetailsNumberOfBooks>
+      <BookDetails>
+        <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+        <LibraryDetailsID>64f1f92e-3ebe-4544-a85e-7a1ad47ab856</LibraryDetailsID>
+        <BookDetailsID>38a94c12-edd3-45f9-8d2c-b6f08899ee5d</BookDetailsID>
+        <BookName>The Dam Busters</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+        <LibraryDetailsID>64f1f92e-3ebe-4544-a85e-7a1ad47ab856</LibraryDetailsID>
+        <BookDetailsID>46b5a5bf-924c-49d1-b29f-26a543d03cb1</BookDetailsID>
+        <BookName>Bridge Over River Kwai</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>9e615cfc-4d52-4ad3-a63f-faef2cfa0e52</LibraryID>
+        <LibraryDetailsID>64f1f92e-3ebe-4544-a85e-7a1ad47ab856</LibraryDetailsID>
+        <BookDetailsID>8db47a81-0f5b-4a67-ad0e-c6baf171e58c</BookDetailsID>
+        <BookName>Robinson Crusoe Island</BookName>
+      </BookDetails>
+    </LibraryDetails>
+  </Library>
+  <Library>
+    <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+    <LibraryReferenceNumber>56ab34xx</LibraryReferenceNumber>
+    <LibraryLocation>London</LibraryLocation>
+    <LibraryOpened>2000-01-01</LibraryOpened>
+    <LibraryClosed>
+    </LibraryClosed>
+    <LibraryDetails>
+      <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+      <LibraryDetailsID>3b5dba9c-7ec8-4515-be08-fb1d0718a0ab</LibraryDetailsID>
+      <libraryDetailsNumber>1</libraryDetailsNumber>
+      <LibraryDetailsDate>2000-02-01</LibraryDetailsDate>
+      <LibraryDetailsNumberOfBooks>2</LibraryDetailsNumberOfBooks>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>3b5dba9c-7ec8-4515-be08-fb1d0718a0ab</LibraryDetailsID>
+        <BookDetailsID>e98949dd-ea8c-4369-a2e2-87c6f7797e90</BookDetailsID>
+        <BookName>The Dam Busters</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>3b5dba9c-7ec8-4515-be08-fb1d0718a0ab</LibraryDetailsID>
+        <BookDetailsID>7f9ae340-adac-472f-b2c9-000fe7021adc</BookDetailsID>
+        <BookName>Bridge Over River Kwai</BookName>
+      </BookDetails>
+    </LibraryDetails>
+    <LibraryDetails>
+      <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+      <LibraryDetailsID>8d9db8fb-7935-4cd8-8cd3-53cf5a9af17f</LibraryDetailsID>
+      <libraryDetailsNumber>2</libraryDetailsNumber>
+      <LibraryDetailsDate>2000-03-01</LibraryDetailsDate>
+      <LibraryDetailsNumberOfBooks>3</LibraryDetailsNumberOfBooks>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>8d9db8fb-7935-4cd8-8cd3-53cf5a9af17f</LibraryDetailsID>
+        <BookDetailsID>1c75f617-dfa5-4eb5-a704-ec10db7bb2be</BookDetailsID>
+        <BookName>The Dam Busters</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>8d9db8fb-7935-4cd8-8cd3-53cf5a9af17f</LibraryDetailsID>
+        <BookDetailsID>3a767b5f-0555-46e0-bd5b-b531a5fade12</BookDetailsID>
+        <BookName>Bridge Over River Kwai</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>8d9db8fb-7935-4cd8-8cd3-53cf5a9af17f</LibraryDetailsID>
+        <BookDetailsID>6a563b5f-3b24-4f2f-92bd-129c8094a583</BookDetailsID>
+        <BookName>Robinson Crusoe Island</BookName>
+      </BookDetails>
+    </LibraryDetails>
+    <LibraryDetails>
+      <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+      <LibraryDetailsID>bc36c05a-6cf6-4435-bd5c-062dbc6d19fb</LibraryDetailsID>
+      <libraryDetailsNumber>3</libraryDetailsNumber>
+      <LibraryDetailsDate>2000-04-01</LibraryDetailsDate>
+      <LibraryDetailsNumberOfBooks>4</LibraryDetailsNumberOfBooks>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>bc36c05a-6cf6-4435-bd5c-062dbc6d19fb</LibraryDetailsID>
+        <BookDetailsID>9376f776-dda6-410a-bca7-c74e08fe0291</BookDetailsID>
+        <BookName>The Dam Busters</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>bc36c05a-6cf6-4435-bd5c-062dbc6d19fb</LibraryDetailsID>
+        <BookDetailsID>5bee97aa-a663-4f86-a6cf-cc1e48638468</BookDetailsID>
+        <BookName>Bridge Over River Kwai</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>bc36c05a-6cf6-4435-bd5c-062dbc6d19fb</LibraryDetailsID>
+        <BookDetailsID>d314db3f-83d1-4938-b512-928738a4ae2f</BookDetailsID>
+        <BookName>Robinson Crusoe Island</BookName>
+      </BookDetails>
+      <BookDetails>
+        <LibraryID>bcafdf4b-2c9f-4a11-8dfd-2383349c8957</LibraryID>
+        <LibraryDetailsID>bc36c05a-6cf6-4435-bd5c-062dbc6d19fb</LibraryDetailsID>
+        <BookDetailsID>619f9479-dfa0-4143-8659-f5765ccbf01e</BookDetailsID>
+        <BookName>T-SQL Development</BookName>
+      </BookDetails>
+    </LibraryDetails>
+  </Library>
+</MessageHeader>
