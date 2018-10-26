@@ -1,5 +1,5 @@
-﻿$strSourceFolder = "C:\Users\Developer\Documents"
-$strRootFolder = "\\GraigWS002\Backups"
+﻿$strSourceFolder = "C:\PQRDData\OneDrive - Sopra Steria"
+$strTargetRootFolder = "H:\Backups"
 $Today = Get-dATE -F "yyyyMMdd"
 $TestTrue = $True
 #Returns single digit id less than 10
@@ -9,10 +9,10 @@ $intLastMonth = ((Get-Date).Month - 1)
 $strLastMonth = (Get-dATE -F "yyyy") + $intLastMonth.Tostring("00") 
 
 #Backup Folder for today
-$strDestinationFolder = $strRootFolder + "\" + $Today
+$strDestinationFolder = $strTargetRootFolder + "\" + $Today
 
 #Root folder to contain last months backups ...\YYYYMM
-$PreviousMonthFolder = $strRootFolder + "\" + $strLastMonth
+$PreviousMonthFolder = $strTargetRootFolder + "\" + $strLastMonth
 
 ECHO 'Backuping folder regime'
 
