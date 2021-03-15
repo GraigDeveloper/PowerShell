@@ -1,4 +1,5 @@
-﻿$strSourceFolder = "C:\Users\Developer\Documents"
+﻿#Start
+$strSourceFolder = "C:\Users\Developer\Documents"
 $strPMTFile = "UKIP.accdb"
 $strBackupFolder = "\\GraigWS002\Backups\PMT"
 $Today = Get-dATE -F "yyyyMMddhhmm"
